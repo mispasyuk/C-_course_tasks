@@ -1,1 +1,1 @@
-# C-_course_tasks
+# C++_course_tasks
